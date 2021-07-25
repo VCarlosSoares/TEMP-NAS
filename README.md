@@ -15,6 +15,8 @@ Baixar o Nas no site oficial ou Clonando este Repositório
 
 ### CONFIGURAÇÃO ###
 
+tar -xzf NPB3.3.1.tar.gz
+
 cd ./NPB3.3.1/NPB3.3-OMP/config
 
 
