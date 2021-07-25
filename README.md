@@ -48,6 +48,8 @@ done ;
 
 ctrl + o > Enter
 
+ctrl + x
+
 
 chmod +x temp.sh
 
